@@ -6,12 +6,21 @@ I enjoy working on AI and ML.
 ---
 
 ## 🔹 About Me
-- 🌱 Currently learning: Pandas
-- 💻 Working on: Basic Python projects
+- 🌱 Currently learning: Data Visualization
+- 💻 Working on: Exploratory Data Analysis
 - 📫 How to reach me: ArnavjyotiKalita@gmail.com
 
 ---
 
-## 🔹 Skills
-- Programming: Python, C++  
-- Tools: Matlab, Git, GitHub, VS Code
+## 🛠 Skills
+
+**Programming Languages:** Python, MATLAB (for EV simulation)
+
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+
+**Natural Language Processing:** NLTK, WordCloud, Text Preprocessing
+
+**Version Control & Tools:** Git, GitHub, VS Code, Jupyter Notebook
+
+**Others:** Excel, MATLAB Simulink
+
