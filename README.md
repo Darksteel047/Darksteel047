@@ -1,7 +1,8 @@
-# Hi, I'm Arnav 👋
+# Hi, I'm Arnavjyoti Kalita 👋
 
-I'm an Electrical Engineering Student specialising in Power Systems.  
-I enjoy working on AI and ML. 
+**Power Systems Engineer | Python Developer | AI & ML Enthusiast**
+
+I developed an interest in Artificial Intelligence (AI) and Machine Learning (ML) during my Master’s project, and here I am, building projects and repositories to strengthen my skills in Python, Data Science, and AI/ML.
 
 ---
 
@@ -9,6 +10,7 @@ I enjoy working on AI and ML.
 - 🌱 Currently learning: Data Visualization
 - 💻 Working on: Exploratory Data Analysis
 - 📫 How to reach me: ArnavjyotiKalita@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/arnavjyoti-kalita](https://www.linkedin.com/in/arnavjyoti-kalita-00747ag/)
 
 ---
 
