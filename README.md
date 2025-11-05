@@ -7,8 +7,8 @@ I developed an interest in Artificial Intelligence (AI) and Machine Learning (ML
 ---
 
 ## 🔹 About Me
-- 🌱 Currently learning: Data Visualization
-- 💻 Working on: Exploratory Data Analysis
+- 🌱 Currently learning: ML Algorithms
+- 💻 Working on: Linear Regression models
 - 📫 How to reach me: ArnavjyotiKalita@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/arnavjyoti-kalita](https://www.linkedin.com/in/arnavjyoti-kalita-00747ag/)
 
