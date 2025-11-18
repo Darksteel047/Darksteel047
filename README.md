@@ -38,7 +38,7 @@
 
 ---
 
-## 📚 Featured Projects (Pinned)
+## 📚 Featured Projects
 
 ### 🔥 **Fault Detection in Electrical Systems (Binary Classification)**
 - Random Forest + RandomizedSearchCV  
