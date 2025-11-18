@@ -75,5 +75,5 @@
 
 ## 📫 Contact
 
-🔗 LinkedIn: linkedin.com/in/arnavjyoti-kalita
-🌐 GitHub: https://github.com/darksteel047  
+- 🔗 LinkedIn: https://in.linkedin.com/in/arnavjyoti-kalita-00747ag
+- 🌐 GitHub: https://github.com/darksteel047  
