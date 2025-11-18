@@ -8,7 +8,7 @@ I developed an interest in Artificial Intelligence (AI) and Machine Learning (ML
 
 ## 🔹 About Me
 - 🌱 Currently learning: ML Algorithms
-- 💻 Working on: Linear Regression models
+- 💻 Working on: Supervised Learning ML models
 - 📫 How to reach me: ArnavjyotiKalita@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/arnavjyoti-kalita](https://www.linkedin.com/in/arnavjyoti-kalita-00747ag/)
 
